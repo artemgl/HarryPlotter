@@ -168,7 +168,8 @@ public class FunctionHandler {
         float[] normals = getNormals(f, gap1, gap2, step1, step2);
         float[] textureCoords = getTextureCoords(gap1, gap2, step1, step2);
         RawModel model = loader.loadToVAO(vertices, textureCoords, normals, indices);
-        ModelTexture texture = new ModelTexture(MasterRenderer.getLoader().loadTexture("earth2"));
+        //ModelTexture texture = new ModelTexture(MasterRenderer.getLoader().loadTexture("earth2"));
+        ModelTexture texture = new ModelTexture(1);
         TexturedModel texturedModel = new TexturedModel(model, texture);
         texture.setShineDamper(20); //20
         texture.setReflectivity(1); //1
