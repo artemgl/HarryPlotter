@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# HarryPlotter
-=======
 # HarryPlotter
 The program is intended primarily to assist students in the studying differential geometry material. You can set the desired curve or surface and see how it is arranged in more detail. It can be useful if you need to check whether your calculations are correct or to clarify obscure points in theory using illustrative examples.
 
@@ -51,4 +48,3 @@ You can contact us if you want on mail:
 artem_chernikov00@list.ru  
 or  
 anton_chernikov1@list.ru
->>>>>>> 4f3c886f3ff1ae2c84328c3abe8a64dfc85d4b78
