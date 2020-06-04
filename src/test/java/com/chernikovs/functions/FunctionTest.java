@@ -1,6 +1,5 @@
 package com.chernikovs.functions;
 
-import com.sun.tools.javac.util.List;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayDeque;
