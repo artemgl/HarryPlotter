@@ -1,0 +1,8 @@
+install: gradle wrapper
+language: java
+before_install:
+ - chmod +x gradlew
+jdk:
+- openjdk8
+os:
+- linux
